@@ -8,8 +8,6 @@ I saw a youtube video about how spies sent secret messages and i decided it woul
 
 > node.js v16 or above:&nbsp;&nbsp;&nbsp;&nbsp;https://nodejs.org/en/download
 
-#
-
 ## Node modules
 
 ```console
