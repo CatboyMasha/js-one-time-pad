@@ -1,8 +1,8 @@
 # OTP-Encryption
 
-OTP (One Time Password) encryptor and decryptor.
+Essentially uncrackable OTP (One Time Password) encryptor and decryptor.
 
-Essentially uncrackable.
+I saw a youtube video about how spies sent secret messages and i decided it would be a fun idea to code it in node.js :3
 
 ## Dependencies
 
