@@ -47,7 +47,7 @@ const scripts = {
                 parseInt(encrypted_message_num[i], 10).toString(16)];
         }
         var otp_hex = [];
-        for (let i = 0; i < otp.lengh; i++) {
+        for (let i = 0; i < otp.length; i++) {
             otp_hex = [...otp_hex, parseInt(otp[i], 10).toString(16)];
         }
         var otp_string = otp_hex.toString().replace(/,/g, " ");
