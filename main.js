@@ -65,3 +65,5 @@ switch (prompt("encrypt or decrypt? (e/d) > ")) {
         console.log(scripts.dec());
         break;
 }
+
+
