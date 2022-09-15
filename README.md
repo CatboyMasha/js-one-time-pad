@@ -2,7 +2,7 @@
 
 Essentially uncrackable OTP (One Time Password) encryptor and decryptor.
 
-I saw a youtube video about how spies sent secret messages and decided it would be a fun idea to code :3
+I saw a youtube video about how spies sent secret messages and thought it would be fun to code :3
 
 ## Dependencies
 
