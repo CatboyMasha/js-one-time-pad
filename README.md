@@ -1,6 +1,7 @@
 # OTP-Encryption
 
 OTP (One Time Password) encryptor and decryptor.
+
 Essentially uncrackable.
 
 ## Dependencies
