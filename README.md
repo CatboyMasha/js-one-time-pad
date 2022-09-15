@@ -10,7 +10,7 @@ I saw a youtube video about how spies sent secret messages and i decided it woul
 
 #
 
-## Node modules (for compatability // may not be nessecary for all)
+## Node modules (for compatability, may not be nessecary for all)
 
 ```console
 >npm i prompt-sync
