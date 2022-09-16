@@ -65,7 +65,7 @@ const scripts = {
         var decrypted_message_string = [];
         for (let i = 0; i < decrypted_message.length; i++) {
             decrypted_message_string = [...decrypted_message_string,
-            alpha[decrypted_message[i]]];
+            alpha[decrypted_message[i]]]
         }
         decrypted_message_string = decrypted_message_string
             .toString().replace(/,/g, " ").replace(/(.{1})./g,"$1");
