@@ -1,6 +1,6 @@
 # OTP-Encryption
 
-Essentially uncrackable OTP (One Time Password) encryptor and decryptor.
+Essentially uncrackable OTP (One Time Pad) encryptor and decryptor.
 
 I saw a youtube video about how spies sent secret messages and thought it would be fun to code :3
 
